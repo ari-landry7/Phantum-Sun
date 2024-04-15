@@ -1,0 +1,14 @@
+{
+  "name": "phantum-sun",
+  "version": "1.0.0",
+  "description": "a website for my friend who's in a band called Phantum Sun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
