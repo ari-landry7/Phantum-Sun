@@ -18,3 +18,7 @@
 .purple {
     background-color: #673182;
 }
+
+a:link {
+    color: #673182;
+}
