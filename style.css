@@ -1,11 +1,7 @@
-* {
+body {
     background-color: #030100;
 }
 
-body {
-    color: black;
-}
-
-.card {
+.orange {
     background-color: #d14a15;
 }
