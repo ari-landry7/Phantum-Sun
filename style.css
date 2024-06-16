@@ -2,6 +2,18 @@
     background-color: #030100;
 }
 
-.orange {
+.light-orange {
     background-color: #d14a15;
+}
+
+.med-oramge {
+    background-color: #c84009;
+}
+
+.dark-orange {
+    background-color: #b43908;
+}
+
+.purple {
+    background-color: #673182;
 }
